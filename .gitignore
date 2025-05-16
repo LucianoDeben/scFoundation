@@ -161,3 +161,6 @@ cython_debug/
 
 .DS_store
 **/*.DS_store/
+
+# All model files and checkpoints
+*.ckpt
